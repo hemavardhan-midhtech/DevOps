@@ -38,11 +38,11 @@ Started: June 2026
 - [x] Process Management
 
 ### Git & GitHub
-- [*] Clone
-- [*] Commit
-- [*] Branching
-- [*] Merge
-- [*] Pull Requests
+- [x] Clone
+- [x] Commit
+- [x] Branching
+- [x] Merge
+- [x] Pull Requests
 
 ### Docker
 - [ ] Images
@@ -60,8 +60,8 @@ Started: June 2026
 - [ ] Ingress
 
 ### Terraform
-- [ ] Providers
-- [ ] Resources
+- [x] Providers
+- [x] Resources
 - [ ] Variables
 - [ ] State Management
 - [ ] AWS Infrastructure
