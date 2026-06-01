@@ -14,8 +14,8 @@ Started: June 2026
 
 | Technology | Status | Progress |
 |------------|----------|----------|
-| Linux | 🟨 | 0% |
-| Git & GitHub | 🟨 | 0% |
+| Linux | 🟨 | 100% |
+| Git & GitHub | 🟨 | 100% |
 | AWS | 🟨 | 0% |
 | Azure | 🟨 | 0% |
 | Terraform | 🟨 | 0% |
@@ -32,18 +32,18 @@ Started: June 2026
 ## Skills Checklist
 
 ### Linux
-- [ ] File Management
-- [ ] User Management
-- [ ] Permissions
-- [ ] Shell Scripting
-- [ ] Process Management
+- [*] File Management
+- [*] User Management
+- [*] Permissions
+- [*] Shell Scripting
+- [*] Process Management
 
 ### Git & GitHub
-- [ ] Clone
-- [ ] Commit
-- [ ] Branching
-- [ ] Merge
-- [ ] Pull Requests
+- [*] Clone
+- [*] Commit
+- [*] Branching
+- [*] Merge
+- [*] Pull Requests
 
 ### Docker
 - [ ] Images
