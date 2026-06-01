@@ -6,6 +6,7 @@ Linux uses a hierarchical file system starting from the root directory (/).
 
 ## Directory Structure
 
+## Directory Structure 
 /
 ├── bin
 ├── boot
@@ -25,6 +26,7 @@ Linux uses a hierarchical file system starting from the root directory (/).
 ├── tmp
 ├── usr
 └── var
+
 
 ## Important Directories
 
