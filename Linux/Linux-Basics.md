@@ -1,5 +1,3 @@
-# Linux-Basics.md
-
 # Linux Basics
 
 ## What is Linux?
