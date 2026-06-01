@@ -31,11 +31,11 @@ Started: June 2026
 ## Skills Checklist
 
 ### Linux
-- [*] File Management
-- [*] User Management
-- [*] Permissions
-- [*] Shell Scripting
-- [*] Process Management
+- [x] File Management
+- [x] User Management
+- [x] Permissions
+- [x] Shell Scripting
+- [x] Process Management
 
 ### Git & GitHub
 - [*] Clone
@@ -133,7 +133,7 @@ DevOps-Learning-Journey/
 │   │   ├── Networking.md
 │   │   └── Troubleshooting.md
 │   │
-│   ├── Commands/
+│   └── Commands/
 │       └── Linux-Commands.md
 │  
 ├── 02-Git-GitHub/
